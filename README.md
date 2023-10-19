@@ -1,10 +1,20 @@
 # Playstation Store
 
-<p>Project part of <a href="https://web.dio.me/">DIO</a> Bootcamp FullStack - Java + Angular </p>
+- <p>Project part of <a href="https://web.dio.me/">DIO</a> Bootcamp FullStack - Java + Angular 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+## Links
+- Live Site URL: https://store-playstation-psn.netlify.app</p>
+
+### 🛠 Tecnologias
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [Angular](https://angular.io/docs)
+
 
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
