@@ -1,4 +1,6 @@
-# Store
+# Playstation Store
+
+<p>Project part of <a href="https://web.dio.me/">DIO</a> Bootcamp FullStack - Java + Angular </p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
